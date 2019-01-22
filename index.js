@@ -4,5 +4,5 @@ function forEach(iterable, callback) {
       const element = iterable[i];
       callback(element, i, iterable);
     }
-  }
+  } else if (typeof )
 }
